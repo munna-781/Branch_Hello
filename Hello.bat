@@ -1,1 +1,1 @@
-each "hello from wellsfargo %date% : %time%"
+echo "hello from wellsfargo %date% : %time%"
